@@ -19,7 +19,8 @@ Requires Python 3.8+.
 Install dependency:
 
 ```bash
-python -m pip install vobject```
+python -m pip install vobject
+```
 
 ## Usage
 
