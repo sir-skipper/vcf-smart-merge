@@ -35,7 +35,7 @@ python contacts_merge.py baseline.vcf source1.vcf source2.vcf
 Example:
 
 ```bash
-python contacts_merge.py nextcloud.vcf "All iCloud.vcf" Contacts.vcf
+python contacts_merge.py nextcloud_contacts.vcf iCloud_contacts.vcf "Local Contacts.vcf"
 ```
 
 ## Outputs
